@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e2e2e257;
+}
+.container {
+  width: 350px;
+  background-color: #fff;
+  padding: 15px;
+}
+input {
+  outline: none;
+  border: 0.5px solid #ccc;
+  font-size: 16px;
+}
+input[type="submit"] {
+  background-color: #775ffd;
+  color: #fff;
+  cursor: pointer;
+}
+
+span {
+  font-size: 10px;
+  color: #90f190;
+}
+
+.error {
+  text-align: center;
+  color: #90f190;
+  display: none;
+}

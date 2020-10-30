@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+  display: block;
+  width: 100%;
+  font-size: 14px;
+  padding: 8px;
+  margin: 8px 0px 5px;
+}
+span {
+  display: none;
+}
